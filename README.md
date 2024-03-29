@@ -6,7 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampythondev&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampythondev" /> </p>
 
-- 💬 Ask me about **Python , Django , HTML , CSS , JavaScript, Bootstrap**
+- 💬 Ask me about Python JavaScript
+HTML5 CSS3 Bootstrap5 Tailwind CSS
+Django Django REST Framework Flask React JS
+MySQL PostgreSQL
+Heroku Digital Ocean
+Git GitHub Linux Visual Studio Code Postman Photoshop
 
 - 📫 How to reach me **pythondev.shubham@gmail.com**
 
